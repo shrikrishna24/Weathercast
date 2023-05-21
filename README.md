@@ -1,10 +1,15 @@
 ### `Packages need to be install`
 
 In the project directory, you can run:
+
 run npm i
+
 run npm i -g json-server
+
 run npm i excel
+
 run npm install react-icons --save
+
 add bootstrap CDN in index.html
 
 ### `fetching data`
