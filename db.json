@@ -1,0 +1,73 @@
+{
+    "users":[{
+        "id":"1",
+        "ref_ID":"231",
+        "Customer":"sophie",
+        "products":"Orbea",
+        "Date":"08-aug 2020",
+        "Distribution":"Banglore",
+        "status":"In transit",
+        "Price":"800"
+    },
+    {
+        "id":"2",
+        "ref_ID":"123",
+        "Customer":"devang",
+        "products":"tshirt",
+        "Date":"08-sep 2020",
+        "Distribution":"Mumbai",
+        "status":"Placed",
+        "Price":"500"
+    },
+    {
+        "id":"3",
+        "ref_ID":"312",
+        "Customer":"suraj",
+        "products":"jeans",
+        "Date":"19-oct 2020",
+        "Distribution":"Patna",
+        "status":"Out for Delivery",
+        "Price":"1800"
+    },
+    {
+        "id":"4",
+        "ref_ID":"798",
+        "Customer":"raj",
+        "products":"watch",
+        "Date":"23-feb 2020",
+        "Distribution":"pune",
+        "status":"In transit",
+        "Price":"3000"
+    },
+    {
+        "id":"5",
+        "ref_ID":"901",
+        "Customer":"deven",
+        "products":"speaker",
+        "Date":"05-mar 2020",
+        "Distribution":"varansi",
+        "status":"Out for Delivery",
+        "Price":"1199"
+    },
+    {
+        "id":"6",
+        "ref_ID":"713",
+        "Customer":"john",
+        "products":"SSD",
+        "Date":"08-aug 2020",
+        "Distribution":"mumbai",
+        "status":"Placed",
+        "Price":"4000"
+    },
+    {
+        "id":"7",
+        "ref_ID":"999",
+        "Customer":"mike",
+        "products":"tools",
+        "Date":"26-sept 2020",
+        "Distribution":"thane",
+        "status":"Delivered",
+        "Price":"5500"
+    }
+]
+}

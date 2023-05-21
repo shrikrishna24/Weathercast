@@ -1,0 +1,100 @@
+.header {
+  background: #f4f4f4;
+  border-radius: 20px 20px 0 0;
+}
+
+hr {
+  border: 1px solid #dddddd;
+}
+
+/* search-input-style*/
+.search {
+  width: 400px;
+  height: 9vh;
+  border: 2px solid #d3d0d0;
+  border-radius: 10px;
+  outline: none;
+}
+
+/* status and description icons  */
+.search-icon,
+.status-icon,
+.descp-icon {
+  position: absolute;
+  cursor: pointer;
+  left: 30px;
+}
+.status-icon {
+  left: 457px;
+  top:28px
+}
+.descp-icon {
+  left: 725px;
+  top:28px
+}
+
+/* status and description forms */
+.form-group select {
+  appearance: none;
+}
+
+.select-status,
+.select-distribution {
+  color: #9c9c9c;
+  width: 250px;
+  height: 9vh;
+  border: 2px solid #d3d0d0;
+  border-radius: 10px;
+  outline: none;
+}
+
+.arrow-st,
+.arrow-di {
+  position: relative;
+  color: #007bff;
+  margin-top: 20px;
+}
+
+.arrow-st {
+  right: 40px;
+  top:4px
+}
+
+.arrow-di {
+  right: 40px;
+  top:4px
+}
+
+/* HOVER EFFECT */
+.search:hover,
+.select-status:hover,
+.arrow-st:hover,
+.select-distribution:hover,
+  .arrow-di:hover{
+  border: 2px solid #007bff;
+  cursor: pointer;
+}
+
+.arrow-st:hover,
+.arrow-di:hover{
+  border: 0;
+}
+
+/* export button  */
+.exp-icon {
+  position: relative;
+  right:6px;
+  top:4px
+}
+
+.btn-lg {
+  font-size: 18px;
+  margin-left: 85px;
+  border-radius: 50px;
+}
+
+/* not found */
+h4{
+  margin: 100px;
+  text-align: center;
+}
